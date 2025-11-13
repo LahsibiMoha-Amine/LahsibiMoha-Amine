@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 ¡Hola! Soy [Mohammed Amine Lahsibi]
 
-<!--
-**LahsibiMoha-Amine/LahsibiMoha-Amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soy estudiante del Grado Superior en Desarrollo de Aplicaciones Web (DAW) en Barcelona.
+💻 Me apasiona el mundo del desarrollo web y actualmente estoy aprendiendo a crear sitios y aplicaciones modernas, funcionales y bien diseñadas.
 
-Here are some ideas to get you started:
+🌱 Sobre mí:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudio DAW porque me encanta la tecnología y el diseño web.
+
+⚽ En mi tiempo libre, disfruto mucho jugando al fútbol y aprendiendo cosas nuevas.
+
+🌐 Tengo experiencia creando sitios web con WordPress, desde la instalación hasta la personalización de temas y plugins.
+
+🚀 Siempre busco mejorar mis habilidades y aprender nuevas tecnologías del mundo del desarrollo.
+
+🧠 Habilidades:
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP, MySQL
+
+CMS: WordPress
+
+Herramientas: Git, VS Code
