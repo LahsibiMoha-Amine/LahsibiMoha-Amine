@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Mohammed Amine Lahsibi]
 
 🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** en **Barcelona**.  
 💻 Apasionado por el desarrollo web y el diseño de interfaces modernas.
@@ -31,9 +31,8 @@
 ---
 
 ## 📫 Contacto
-- ✉️ **Email:** [tuemail@ejemplo.com]  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🌍 **Portfolio:** [tusitio.com](https://tusitio.com)
+- ✉️ **Email:** [lahsibi.mohammed.7e9@itb.cat]  
+- 💼 **LinkedIn:** [linkedin.com/in/Youssef Lh](https://linkedin.com/in/YoussefLh)  
 
 ---
 
